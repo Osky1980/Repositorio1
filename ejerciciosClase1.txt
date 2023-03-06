@@ -80,7 +80,7 @@ public class ejercicios_clase_1 {
 		//● Tener 3 o más inmuebles.
 		//● Poseer una embarcación, una aeronave de lujo o ser titular de activos societarios que demuestren capacidad económica plena.”
 		
-		float ingresos=350000;
+		float ingresos=500000;
 		int vehiculos=3;
 		int inmuebles=3;
 		int lujos=2;
