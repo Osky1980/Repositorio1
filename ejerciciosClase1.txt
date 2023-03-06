@@ -90,7 +90,7 @@ public class ejercicios_clase_1 {
 			System.out.print("Usted pertenece al segmento de ingresos altos");
 		}
 		else {
-			System.out.print("Usted NO pertenece al segmento de ingresos altos");
+			System.out.print("Usted NO pertenece al segmento de ingresos de GENTE RICA");
 		}
 		
 		
