@@ -87,7 +87,7 @@ public class ejercicios_clase_1 {
 		
 		if ((ingresos>=489083)&&(vehiculos>=3)&&(inmuebles>=3)&&(lujos>=1))
 		{
-			System.out.print("Usted pertenece al segmento de ingresos altos");
+			System.out.print("Usted pertenece al segmento de ingresos de GENTE RICA");
 		}
 		else {
 			System.out.print("Usted NO pertenece al segmento de ingresos de GENTE RICA");
